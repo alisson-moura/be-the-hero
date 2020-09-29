@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Aplicativo para auxiliar ONGs feito com ReactJS, React Native e Node.js.  
+  Aplicativo para auxiliar ONGs a encontrar colaboradores, feito com ReactJS, React Native e Node.js.  
 </p>
 
 <img src=".github/thumbnail.png" />
@@ -11,7 +11,7 @@
 ## Sobre o projeto
 
 #### Web
-A página da web será usada para cadastrar a ONG, onde você receberá uma identificação para acesso. Posteriormente, os casos serão registrados na página de perfil.
+A página web será usada para cadastrar as ONGs, onde você receberá uma identificação para acesso. Posteriormente, os casos serão registrados na página de perfil.
 
 #### App
 No aplicativo serão listados todos os casos cadastrados pelas ONGs, onde o usuário pode entrar em contato com a ONG via WhatsApp ou E-mail e assim contribuir com o caso.
@@ -63,7 +63,7 @@ $ cd backend
 $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn
+$ yarn dev
 
 # A API vai ficar disponível  na porta:3333 
 
