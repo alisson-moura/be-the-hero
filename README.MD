@@ -39,9 +39,10 @@ No aplicativo serão listados todos os casos cadastrados pelas ONGs, onde o usu�
 - [ESlint](https://eslint.org) - ESLint statically analyzes your code to quickly find problems.
 
 ## 🚀 Como executar o projeto
-Este projeto é divido em duas partes:
+Este projeto é divido em 3 partes:
 1. Backend (pasta backend) 
 2. Mobile (pasta mobile)
+3. Web (pasta web)
 
 💡 O Mobile precisa que o Backend esteja sendo executado para funcionar.
 
